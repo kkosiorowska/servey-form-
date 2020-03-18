@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/survey-form/static/css/main.e26a2d73.chunk.css",
+    "main.js": "/survey-form/static/js/main.ecb8ff34.chunk.js",
+    "main.js.map": "/survey-form/static/js/main.ecb8ff34.chunk.js.map",
+    "runtime-main.js": "/survey-form/static/js/runtime-main.e4f28f43.js",
+    "runtime-main.js.map": "/survey-form/static/js/runtime-main.e4f28f43.js.map",
+    "static/js/2.4de74d65.chunk.js": "/survey-form/static/js/2.4de74d65.chunk.js",
+    "static/js/2.4de74d65.chunk.js.map": "/survey-form/static/js/2.4de74d65.chunk.js.map",
+    "index.html": "/survey-form/index.html",
+    "precache-manifest.c458a62c89021106277b620670866aac.js": "/survey-form/precache-manifest.c458a62c89021106277b620670866aac.js",
+    "service-worker.js": "/survey-form/service-worker.js",
+    "static/css/main.e26a2d73.chunk.css.map": "/survey-form/static/css/main.e26a2d73.chunk.css.map",
+    "static/js/2.4de74d65.chunk.js.LICENSE.txt": "/survey-form/static/js/2.4de74d65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f28f43.js",
+    "static/js/2.4de74d65.chunk.js",
+    "static/css/main.e26a2d73.chunk.css",
+    "static/js/main.ecb8ff34.chunk.js"
+  ]
+}
