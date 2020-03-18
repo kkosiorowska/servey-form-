@@ -1,0 +1,30 @@
+.header {
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+}
+
+.description {
+    font-style: italic;
+    letter-spacing: 1px;
+    font-weight: 100;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 3px;
+}
+  
+p {
+    font-size: 1.125rem;
+}
+  
+h1, p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
